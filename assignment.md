@@ -149,7 +149,8 @@ Each group will:
 
 <img width="765" height="96" alt="image" src="https://github.com/user-attachments/assets/8a541470-ab3e-41b9-a2de-71e3a8319f0f" />
 
-<img width="621" height="171" alt="image" src="https://github.com/user-attachments/assets/d2a310a3-0e9a-493a-9264-8f048dfb3ddb" />
+<img width="841" height="180" alt="image" src="https://github.com/user-attachments/assets/382468d5-e0e1-455c-9628-6ccbb1284319" />
+
 
 <img width="934" height="425" alt="image" src="https://github.com/user-attachments/assets/fbd1cdb8-4643-43bc-81f7-65e8a1c94f31" />
 
