@@ -38,6 +38,8 @@ The dataset contains product-level data with the following columns:
 
 Create the following additional columns:
 
+### Discount Amount (KSh)
+
 ### Rating Category
 - Poor for ratings below 3  
 - Average for ratings between 3 and 4.4  
@@ -146,4 +148,10 @@ Each group will:
 ###  Solution
 
 <img width="765" height="96" alt="image" src="https://github.com/user-attachments/assets/8a541470-ab3e-41b9-a2de-71e3a8319f0f" />
+
+<img width="621" height="171" alt="image" src="https://github.com/user-attachments/assets/d2a310a3-0e9a-493a-9264-8f048dfb3ddb" />
+
+<img width="934" height="425" alt="image" src="https://github.com/user-attachments/assets/fbd1cdb8-4643-43bc-81f7-65e8a1c94f31" />
+
+<img width="918" height="422" alt="image" src="https://github.com/user-attachments/assets/5861721b-afac-4cac-b987-87ee1067964c" />
 
